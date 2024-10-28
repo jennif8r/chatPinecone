@@ -1,6 +1,6 @@
 from pinecone import Pinecone, ServerlessSpec
 
-pc = Pinecone(api_key="18cf5da0-b009-4191-87c5-9d8f50524bea")
+pc = Pinecone(api_key="chave_api-pinecone")
 
 index_name = "quickstart"
 
